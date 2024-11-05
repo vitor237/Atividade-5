@@ -84,7 +84,8 @@ header h1{
 }
 
 /* *********************reponsividade 450px********************** */
-@media (max-width: 450px ) {
+@media (max-width: 400px ) 
+{
    header nav {
       display: flex;
       padding: 8px;
